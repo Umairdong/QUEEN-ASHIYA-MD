@@ -65,10 +65,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+"
+    "url": "git+"https://github.com/umairjani/QUEEN-ASHIYA-MD.git"
   },
   "bugs": {
-    "url": ""
+    "url": "https://github.com/umairjani/QUEEN-ASHIYA-MD/issues"
   },
-  "homepage": ""
+  "homepage": "https://github.com/umairjani/QUEEN-ASHIYA-MD#readme"
 }
