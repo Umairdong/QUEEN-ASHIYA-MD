@@ -1,21 +1,21 @@
 {
   "name": "💞 𝚀𝚄𝙴𝙴𝙽 Maher BaBa 💞",
   "description": "Sri Lanka World Best Whatsapp BOT",
-  "repository": "",
-  "logo": "",
+  "repository": "https://github.com/umaijani/QUEEN-ASHIYA-MD",
+  "logo": "https://i.ibb.co/3M1zNm/Ashiya.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
       "url": "heroku/nodejs"
     },
     {
-      "url": ""
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
     },
     {
-            "url": ""
+            "url": "https://github.com/yespark/heroku-imagemagick-buildpack"
         },
     {
-      "url": ""
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
     }
   ],
    "formation": {
